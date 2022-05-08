@@ -1,13 +1,14 @@
 ### Hi there 👋
-<!-- [![Nukit's GitHub stats](https://github-readme-stats.vercel.app/api?username=Nukitt)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nukitt)](https://github.com/anuraghazra/github-readme-stats)
- -->
+
+I'm Nukit Tailor, a computational linguistics student at IIIT Hyderabad.
+I know python, C, C++ and have also worked with NLP and ML tools. I also have experience in web development. 
+Other than doing the stuff you can see here I play basketball, pool and online games with friends.
 
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nukitt&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Nukitt&show_icons=true&theme=radical" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukitt" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukitt&layout=compact&theme=radical" />
 </a>
 
 <!--
