@@ -6,7 +6,7 @@ I'm Nukit Tailor, a computational linguistics student at IIIT Hyderabad.
 * I know python, C, C++ and have also worked with NLP and ML tools. I also have experience in web development.
 * Other than doing the stuff you'll see here I play basketball, pool and online games with friends.
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nukitt&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukitt&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Nukitt&show_icons=true&include_all_commits=true&theme=dark&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nukitt&layout=compact&theme=dark&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 
